@@ -2,7 +2,7 @@
   "name": "yup-ethereum",
   "version": "1.0.0",
   "description": "Yup extension that validates an Ethereum address",
-  "repository": "git@github.com:azerella/yup-ether.git",
+  "repository": "git@github.com:azerella/yup-ethereum.git",
   "author": "Adam Zerella <hi@azerel.la> (https://azerel.la)",
   "license": "MIT",
   "private": false,

@@ -32,7 +32,7 @@ function parseEthereumAddress() {
     'ethereum',
     ({ value }) => `${value} is not a valid Ethereum address`,
     function (value: string) {
-      return isAddress(value);
+      return isAddress(value.toLowerCase());
     }
   );
 }
