@@ -4,7 +4,7 @@
 
 Yup extension that validates an Ethereum address.
 
-> :note: This extension implements a lightweight version [of the `web3.js` utility functions](https://github.com/ChainSafe/web3.js/blob/1.x/packages/web3-utils/src/utils.js#L85). Without supplying the actual public key, it's tricky to perfectly validate a givne address.
+> :warning: This extension implements a lightweight version [of the `web3.js` utility functions](https://github.com/ChainSafe/web3.js/blob/1.x/packages/web3-utils/src/utils.js#L85). Without supplying the actual public key, it's tricky to perfectly validate a givne address.
 
 ## Install
 
